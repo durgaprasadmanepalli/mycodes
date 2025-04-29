@@ -36,6 +36,7 @@ public class prasadaxis1 {
         prasadaxis1 obj = new prasadaxis1();
         obj.createUser(obj);
         obj.display();
+        abc
 
     }
 
